@@ -7,13 +7,10 @@
 <p align="center">
 <a href="mailto:aparajitashrivastava04@gmail.com"><img src="https://img.shields.io/badge/Email-aparajitashrivastava04%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aparajita-shrivastava-084bb62ab/"><img src="https://img.shields.io/badge/LinkedIn-Aparajita%20Shrivastava-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="https://drive.google.com/drive/folders/1JOLjg9VQ51wgsHr0V8CX5Pz5gLtDw7TJ"><img src="https://img.shields.io/badge/Project%20Demos-Google%20Drive-4285F4?logo=googledrive&logoColor=white"></a>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2E7D32?logo=googlemaps&logoColor=white">
-<img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Full--Stack%20%2B%20Applied%20AI-00796B">
-<img src="https://img.shields.io/badge/Building%20with-Antigravity%20%C2%B7%20Claude%20Code%20%C2%B7%20Codex-6A1B9A">
 </p>
 
 ## What I build
