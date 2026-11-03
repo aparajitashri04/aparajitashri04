@@ -22,9 +22,9 @@ My work sits at the intersection of mobile apps, backend systems, and applied AI
 ## Work Experience
 | Period | Role | Company | Highlights |
 |---|---|---|---|
-| Jun 2026 - Present | Tech Intern | FamCare | Own the caregiver app end to end: UI/UX, feature scoping, development, testing, and deployment. Built Salary and Leaves policies, geofenced attendance, No Phone Mode (custom native Android plugin), and AWS-based face verification. |
+| Jun 2026 - Present | Tech Intern | FamCare | Responsible for caregiver app end to end. Built Salary and Leaves policies, geofenced attendance, No Phone Mode (custom native Android plugin), and AWS-based face verification. |
 | May 2026 - Present | Summer Research Intern | NISER | iWatchRoad: Flutter + Django app with a real-time YOLO/SORT/OCR pipeline for helmet detection, vehicle tracking, and license plate recognition. Under review at NISER Research Symposium 2026. |
-| Apr 2026 - May 2026 | Flutter Developer Intern | Whatbytes | Built 20+ Flutter screens integrated with REST APIs for the MOMS app; supported DailyIQ ahead of iOS TestFlight. |
+| Apr 2026 - May 2026 | Flutter Developer Intern | Whatbytes | Built 20+ Flutter screensintegrated with REST APIs for the MOMS app; supported DailyIQ ahead of iOS TestFlight. |
 | Feb 2026 - Apr 2026 | Flutter Developer Intern | Antops Technologies | Built COPYTHAT, an expense tracker with Gemini API-powered receipt extraction; cut app latency by 30%. |
 
 ## Tech Stack
