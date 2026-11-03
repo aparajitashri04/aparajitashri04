@@ -17,7 +17,7 @@
 </p>
 
 ## What I build
-My work sits at the intersection of mobile apps, backend systems, and applied AI/ML. I like turning real business rules into software people use every day, from geofenced attendance and policy logic to computer vision and face verification pipelines. I plan with reasoning models and implement with faster ones, so I can ship quicker.
+My work sits at the intersection of mobile apps, backend systems, and applied AI/ML. I like making software people use every day. I plan with reasoning models and implement with faster ones, so I can ship quicker.
 
 ## Work Experience
 | Period | Role | Company | Highlights |
